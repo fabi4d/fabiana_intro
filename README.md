@@ -4,7 +4,7 @@ Welcome to my data analytics portfolio! This repository showcases a collection o
 
 Below you'll find links and short descriptions for each project.
 
-[BellabeatCaseStudy](https://pages.github.com/)
+[Bellabeat Case Study] (https://github.com/fabi4d/BellabeatCaseStudy)
 
 
 
